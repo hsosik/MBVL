@@ -1,0 +1,5 @@
+# Default to autocrlf
+* text=auto
+
+# Shell scripts must preserve LF line endings or Bash complains
+*.sh text eol=lf
