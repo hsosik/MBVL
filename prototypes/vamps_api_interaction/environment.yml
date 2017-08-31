@@ -1,0 +1,7 @@
+name: vamps_api
+dependencies:
+  - python>=3
+  - requests
+  - beautifulsoup4
+  - lxml
+  - ipykernel
